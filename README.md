@@ -1,1 +1,1 @@
-# HorseVsHumans-Image-Classofication
+# HorseVsHumans-Image-Classification
